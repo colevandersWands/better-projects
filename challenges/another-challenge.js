@@ -18,3 +18,6 @@ function challengeHandler() {
   // log for developer
   // --- log the action: user args & result
 }
+
+
+// connect event listener to the challenge button with 'click'
