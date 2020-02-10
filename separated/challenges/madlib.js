@@ -7,7 +7,7 @@ function madlib(n, v, a) {
   }
 }
 
-// in-line assertion tests)
+// in-line assertion tests
 console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer', 'first assertion');
 console.assert(madlib('toads', 'program', 'large') === 'when the large rain falls, toads begin to program', 'first assertion');
 console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer', 'first assertion');
