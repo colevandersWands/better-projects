@@ -1,3 +1,4 @@
+1. [empty challenge](./0-empty-challenge.html)
 1. [pass the asserts](./1-pass-the-asserts.html)
 1. [write the handler](./2-write-the-handler.html)
 1. [button & listener](./3-button-and-listener.html)
