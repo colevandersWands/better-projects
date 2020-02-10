@@ -1,3 +1,5 @@
+console.log('madlibs script has loaded');
+
 // coding challenge
 function madlib(n, v, a) {
   if (n.length > v.length) {
