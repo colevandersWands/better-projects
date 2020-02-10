@@ -6,11 +6,11 @@ function madlib(n, v, a) {
   }
 }
 
-console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer');
-console.assert(madlib('toads', 'program', 'large') === 'when the large rain falls, toads begin to program');
-console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer');
-console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer');
-console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer');
+console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer', 'first assertion');
+console.assert(madlib('toads', 'program', 'large') === 'when the large rain falls, toads begin to program', 'first assertion');
+console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer', 'first assertion');
+console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer', 'first assertion');
+console.assert(madlib('horses', 'walk', 'red') === 'red horses love to walk in the summer', 'first assertion');
 
 
 function madlibHandler() {
